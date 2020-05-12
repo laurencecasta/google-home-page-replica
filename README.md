@@ -3,3 +3,6 @@ This mini project will recreate the google home page. Upon completion I will hav
 
 # Still to implement
 Before deploying this for your portfolio, add the 2 buttons below the search bar and the apps icon and sign in button to the navigation bar.
+
+# Don't forget
+Never forget to tidy up the code before you add this to your portfolio.
